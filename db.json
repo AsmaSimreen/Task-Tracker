@@ -1,29 +1,22 @@
 {
-  "tasks": 
-  [
+  "tasks": [
     {
       "id": 1,
       "text": "Passport Appointment",
       "day": "Sept 13th at 9:30 AM",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": 2,
       "text": "Doctor's Appointment",
       "day": "Sept 13th at 5:30 PM",
-      "reminder": true
-    },
-    {
-      "id": 3,
-      "text": "Food Shopping",
-      "day": "Sept 14th at 8:00 AM",
-      "reminder": true
-    },
-    {
-      "id": 4,
-      "text": "On Karting",
-      "day": "Sept 13th at 8:00 PM",
       "reminder": false
+    },
+    {
+      "text": "Go Karting",
+      "day": "Sept 20th at 10 AM",
+      "reminder": false,
+      "id": 3
     }
   ]
 }
