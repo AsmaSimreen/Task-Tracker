@@ -56,7 +56,7 @@ body {
 }
 
 .task {
-  background: #f4f4f431;
+  background: #f4f4f4;
   margin: 5px;
   padding: 10px 20px;
   cursor: pointer;
@@ -111,7 +111,7 @@ footer {
   margin-top: 30px;
   text-align: center;
 }
-
+/*
 .image{
   height: auto;
   width: auto;
@@ -204,7 +204,7 @@ li:nth-child(7) {
   animation-name:particleAnimation;
   animation-timing-function: infinite;
   animation-iteration-count: infinite;
-  -ms-transform: rotate(20deg); /* IE 9 */
+  -ms-transform: rotate(20deg); 
   transform: rotate(20deg);
 }
 .p::before{
@@ -372,13 +372,6 @@ img{
   pointer-events: none;
 }
 
-/* .bplanet {
-  background-image: url("imgs/IMG_7847.PNG");
-  height: 100px;
-  width: 100px;
-  
-} */
-
 .background-fullviewport{
   right: -50vh;
   width: 100vh;
@@ -398,3 +391,4 @@ h1{
 #logo{
   max-height: 100px;
 }
+*/
